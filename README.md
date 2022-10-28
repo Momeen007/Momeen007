@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Momeen007
+- 👋 Hi, I’m Momin
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ... Html css js
-- 💞️ I’m looking to collaborate on ... Don't know
+- 🌱 I’m currently learning ... Html css js Reac.js React Native
+- 💞️ I’m looking to collaborate on ... Programing
 - 📫 How to reach me ... Sc momin.syed007
 
 <!---
